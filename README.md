@@ -1,2 +1,2 @@
 # QUB-Logistics
-Queens first year Java project. 
+A university project 
